@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/org/cmdi/inventorysystem/views/RegistrationInterface.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>28</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/InventorySystem/src/org/cmdi/inventorysystem/views/FormListenerInterface.java</file>
+            <file>file:/H:/InventorySystem/src/org/cmdi/inventorysystem/views/InventorySystem.java</file>
+            <file>file:/H:/InventorySystem/src/org/cmdi/inventorysystem/models/Database.java</file>
+            <file>file:/H:/InventorySystem/src/org/cmdi/inventorysystem/views/TabbedPaneInterface.java</file>
+            <file>file:/H:/InventorySystem/src/org/cmdi/inventorysystem/controllers/Controller.java</file>
+            <file>file:/H:/InventorySystem/src/org/cmdi/inventorysystem/views/UserPaneInterface.java</file>
+            <file>file:/H:/InventorySystem/src/org/cmdi/inventorysystem/models/Users.java</file>
+            <file>file:/H:/InventorySystem/src/org/cmdi/inventorysystem/views/UserTableModel.java</file>
+            <file>file:/H:/InventorySystem/src/org/cmdi/inventorysystem/views/InterfaceSystem.java</file>
+        </group>
+    </open-files>
+</project-private>
